@@ -12,6 +12,11 @@
   In this lab, I deployed a functional VPN server in the cloud using OpenVPN on an AWS EC2 instance. This allowed for private, secure web browsing by routing all client traffic through the VPN tunnel. The project included server setup, client connection, and testing IP anonymization via cloud infrastructure.
 </p>
 
+<h2><p align="center">🗂️ Project Architecture</h2>
+<p>
+  Below is a high-level diagram of the cloud-based VPN infrastructure, showing how the client, VPN server, VPC, and the internet interact.
+</p>
+<img src="screenshots/vpn-architecture.png" alt="VPN Architecture Diagram" width="700"/>
 <hr/>
 
 <h2>🛠️ Deployment Overview</h2>
