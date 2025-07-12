@@ -13,7 +13,6 @@
 </p>
 
 <h2><p align="center">🗂️ Project Architecture</h2><p>
-  Below is a high-level diagram of the cloud-based VPN infrastructure, showing how the client, VPN server, VPC, and the internet interact.
 </p>
 <p align="center"><img src="Screenshots/project-architecture.png" alt="VPN Architecture Diagram" width="300"/><p>
 <hr/>
