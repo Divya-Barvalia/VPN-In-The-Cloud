@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Cloud-Based VPN with AWS & OpenVPN</h1>
 
 <p align="center">
-  A practical lab deploying a secure, free VPN server in the cloud using Amazon Web Services and OpenVPN for encrypted traffic tunneling.
+  A project in which I deployed a secure, free VPN server in the cloud using Amazon Web Services and OpenVPN for encrypted traffic tunneling.
 </p>
 
 <hr/>
@@ -9,7 +9,7 @@
 <h2>🚀 Summary</h2>
 
 <p>
-  In this lab, I deployed a functional VPN server in the cloud using OpenVPN on an AWS EC2 instance. This allowed for private, secure web browsing by routing all client traffic through the VPN tunnel. The project included server setup, client connection, and testing IP anonymization via cloud infrastructure.
+  In this project, I deployed a functional VPN server in the cloud using OpenVPN on an AWS EC2 instance. This allowed for private, secure web browsing by routing all client traffic through the VPN tunnel. The project included server setup, client connection, and testing IP anonymization via cloud infrastructure.
 </p>
 
 <h2><p align="center">🗂️ Project Architecture</h2><p>
